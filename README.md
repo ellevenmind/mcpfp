@@ -36,10 +36,8 @@ If loading by username doesn't work, don't worry! You can easily use the **"Uplo
 
 This method allows you to bypass any potential rate limits or issues with username-based skin fetching and directly use your desired skin.
 
-This is created by Elleven (EllevenMind), an Elleven Product. All rights reserved.
-
 ## Technical Details
 
 The website is built using HTML, CSS, and JavaScript. It utilizes the `<canvas>` element to draw and customize the Minecraft skins and backgrounds. Skin data is fetched from publicly available Minecraft skin services (e.g., Minotar API).
 
-```This is created by Elleven (EllevenMind), an Elleven Product. All rights reserved.```
+`This is created and owned by Anthroberc. All rights reserved.`
